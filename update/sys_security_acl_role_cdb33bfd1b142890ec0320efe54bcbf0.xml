@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2020-11-06 17:50:35</sys_created_on>
+        <sys_id>cdb33bfd1b142890ec0320efe54bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g_inte_phys_net_network.x_g_inte_phys_net.admin</sys_name>
+        <sys_package display_value="Physical Networks (USASOC)" source="x_g_inte_phys_net">1c907ff91b142890ec0320efe54bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Physical Networks (USASOC)">1c907ff91b142890ec0320efe54bcbe5</sys_scope>
+        <sys_security_acl display_value="x_g_inte_phys_net_network">81b33bfd1b142890ec0320efe54bcbee</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cdb33bfd1b142890ec0320efe54bcbf0</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2020-11-06 17:50:35</sys_updated_on>
+        <sys_user_role display_value="x_g_inte_phys_net.admin" name="x_g_inte_phys_net.admin">c8f173b91b142890ec0320efe54bcb4f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

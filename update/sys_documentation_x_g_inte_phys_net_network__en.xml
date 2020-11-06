@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Physical Network" language="en" table="x_g_inte_phys_net_network">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Physical Network</label>
+            <language>en</language>
+            <name>x_g_inte_phys_net_network</name>
+            <plural>Physical Networks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>erwinel_da</sys_created_by>
+            <sys_created_on>2020-11-06 17:50:33</sys_created_on>
+            <sys_id>20b33bfd1b142890ec0320efe54bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Physical Network</sys_name>
+            <sys_package display_value="Physical Networks (USASOC)" source="x_g_inte_phys_net">1c907ff91b142890ec0320efe54bcbe5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Physical Networks (USASOC)">1c907ff91b142890ec0320efe54bcbe5</sys_scope>
+            <sys_update_name>sys_documentation_x_g_inte_phys_net_network__en</sys_update_name>
+            <sys_updated_by>erwinel_da</sys_updated_by>
+            <sys_updated_on>2020-11-06 17:50:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

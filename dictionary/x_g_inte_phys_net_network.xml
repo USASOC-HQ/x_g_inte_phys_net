@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Physical Network" max_length="40" name="x_g_inte_phys_net_network" type="collection"/>
+</database>
